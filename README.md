@@ -66,3 +66,5 @@
 * float toYDelta 动画结束的点离当前View Y坐标上的差值 
 
 **以上都是与view原始坐标的差值，而不是具体的坐标。**
+
+![](https://ww1.sinaimg.cn/large/006tNc79ly1fe2fqiqf79g30f00qowy0.gif)
