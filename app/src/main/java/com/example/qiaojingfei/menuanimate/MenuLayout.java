@@ -11,8 +11,10 @@ import android.view.animation.TranslateAnimation;
 import android.widget.Button;
 
 /**
- * Created by qiaojingfei on 2017/3/24.
- */
+ * description: MenuLayout
+ * author: qiaojingfei
+ * date: 2018/3/2 上午10:07
+*/
 
 public class MenuLayout extends ViewGroup implements View.OnClickListener {
     private Context mContext;
